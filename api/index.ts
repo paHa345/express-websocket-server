@@ -1,5 +1,4 @@
 const express = require("express");
-const WS = require("ws");
 
 const app = express();
 
